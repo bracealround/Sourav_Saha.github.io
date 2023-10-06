@@ -1,9 +1,9 @@
-# Data Scientist
+# Hi, I'm Sourav. Welcome to my Profile
 
-#### Languages & Databases: Python (Professional Skill), Java, C++, MySQL, LaTeX
-#### FrameWorks and Tool: Django, MERN Stack (React, Express Js., MongoDB, Node Js), Android, Git & Github
-#### Ml FrameWorks and Tool: PyTorch, Tensorflow, Keras, Sklearn, OpenCV, Numpy, Pandas, Nltk, Gensim, Huggingface Transformers
-#### Communication: English (Professional Proficiency), Bangla (Primary fluency), Hindi (Elementary proficiency)
+- ##### Languages & Databases: Python (Professional Skill), Java, C++, MySQL, LaTeX
+- ##### FrameWorks and Tool: Django, MERN Stack (React, Express Js., MongoDB, Node Js), Android, Git & Github
+- ##### Ml FrameWorks and Tool: PyTorch, Tensorflow, Keras, Sklearn, OpenCV, Numpy, Pandas, Nltk, Gensim, Huggingface Transformers
+- ##### Communication: English (Professional Proficiency), Bangla (Primary fluency), Hindi (Elementary proficiency)
 
 ## Education		        		
 **B.Sc., Computer Science & Engineering**
