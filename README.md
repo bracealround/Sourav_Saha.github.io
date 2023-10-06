@@ -1,9 +1,9 @@
 # Hi, I'm Sourav. Welcome to my Profile
 
-- ##### Languages & Databases: Python (Professional Skill), Java, C++, MySQL, LaTeX
-- ##### FrameWorks and Tool: Django, MERN Stack (React, Express Js., MongoDB, Node Js), Android, Git & Github
-- ##### Ml FrameWorks and Tool: PyTorch, Tensorflow, Keras, Sklearn, OpenCV, Numpy, Pandas, Nltk, Gensim, Huggingface Transformers
-- ##### Communication: English (Professional Proficiency), Bangla (Primary fluency), Hindi (Elementary proficiency)
+- ***Languages & Databases:*** Python (Professional Skill), Java, C++, MySQL, LaTeX
+- ***FrameWorks and Tool:*** Django, MERN Stack (React, Express Js., MongoDB, Node Js), Android, Git & Github
+- ***ML FrameWorks and Tool:*** PyTorch, Tensorflow, Keras, Sklearn, OpenCV, Numpy, Pandas, Nltk, Gensim, Huggingface Transformers
+- ***Communication:*** English (Professional Proficiency), Bangla (Primary fluency), Hindi (Elementary proficiency)
 
 ## Education		        		
 **B.Sc., Computer Science & Engineering**
@@ -11,7 +11,7 @@
 - Shahjalal University of Science & Technology (SUST) (March 2023)
 - 5th in Class
 - Recipient of University Merit Scholarship
-- Related Courses: Machine Learning, Artificial Intelligence, Data Science, Data Structure, Algorithms, Object Oriented Programming, Bio-informatics, Discrete Mathematics, Basic Statistics and Probability, Database Systems, Operating System and System Programming, Communication Engineering, Microprocessor and Interfacing, Computer Networking, Computer Graphics and Image Processing, Compiler Construction, Digital Signal Processing.
+- ***Courses:*** Machine Learning, Artificial Intelligence, Data Science, Data Structure, Algorithms, Object Oriented Programming, Bio-informatics, Discrete Mathematics, Basic Statistics and Probability, Database Systems, Operating System and System Programming, Communication Engineering, Microprocessor and Interfacing, Computer Networking, Computer Graphics and Image Processing, Compiler Construction, Digital Signal Processing.
 
 ## Work Experience
 **Machine Learning Engineer @ Reve Systems (_July 2023 - Present_) Project: [Sothik](https://spell.bangla.gov.bd/)**
@@ -23,15 +23,17 @@
 - Organized the 1st shared task of BLP Workshop: Violence Inciting Text Detection.
 - Contributed to a novel framework, dataset, and benchmark models for violence-inciting text detection.
 
+## Publication
+### garNER at SemEval-2023: Simplified Knowledge Augmentation for Multilingual Complex Named Entity Recognition. [Publication](https://aclanthology.org/2023.semeval-1.114.pdf)
+**Authors:** Md Zobaer Hossain, Averie Ho Zoen So, Silviya Silwal, H. Andres Gonzalez Gongora, Ahnaf Mozib Samin, Jahedul Alam Junaed, Aritra Mazumder, ***Sourav Saha***, Sabiha Tahsin Soha (All authors Equal Contribution)
+
+<details>
+<summary> Abstract </summary> This paper presents our solution, garNER, to the SemEval-2023 MultiConer task. We propose a knowledge augmentation approach by directly querying entities from the Wikipedia
+API and appending the summaries of the entities to the input sentence. These entities are either retrieved from the labeled training set (Gold Entity) or from off-the-shelf entity taggers (Entity Extractor). Ensemble methods are then applied across multiple models to get the final prediction. Our analysis shows that the added contexts are beneficial only when such contexts are relevant to the target-named entities, but detrimental when the contexts are irrelevant.
+</details>
 
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
