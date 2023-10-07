@@ -1,5 +1,5 @@
 title: Sourav Saha
 logo: assets/My_image (1).jpg
-#description: text below image
-show_downloads: true
+description: Hi, I am Souarv
+show_downloads: False
 theme: jekyll-theme-minimal
