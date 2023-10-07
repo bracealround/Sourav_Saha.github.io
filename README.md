@@ -1,5 +1,6 @@
 # Hi, I'm Sourav.
 
+## Skills
 - ***Languages & Databases:*** Python (Professional Skill), Java, C++, MySQL, LaTeX
 - ***FrameWorks and Tool:*** Django, MERN Stack (React, Express Js., MongoDB, Node Js), Android, Git & Github
 - ***ML FrameWorks and Tool:*** PyTorch, Tensorflow, Keras, Sklearn, OpenCV, Numpy, Pandas, Nltk, Gensim, Huggingface Transformers
@@ -25,33 +26,21 @@
 ## Publication
 ### garNER at SemEval-2023: Simplified Knowledge Augmentation for Multilingual Complex Named Entity Recognition. [Publication](https://aclanthology.org/2023.semeval-1.114.pdf)
 **Authors:** Md Zobaer Hossain, Averie Ho Zoen So, Silviya Silwal, H. Andres Gonzalez Gongora, Ahnaf Mozib Samin, Jahedul Alam Junaed, Aritra Mazumder, ***Sourav Saha***, Sabiha Tahsin Soha (All authors Equal Contribution)
-
-<details>
-<summary> Abstract </summary> This paper presents our solution, garNER, to the SemEval-2023 MultiConer task. We propose a knowledge augmentation approach by directly querying entities from Wikipedia
-API and appending the summaries of the entities to the input sentence. These entities are either retrieved from the labeled training set (Gold Entity) or from off-the-shelf entity taggers (Entity Extractor). Ensemble methods are then applied across multiple models to get the final prediction. Our analysis shows that the added contexts are beneficial only when such contexts are relevant to the target-named entities, but detrimental when the contexts are irrelevant.
-</details>
+<details><summary> Abstract </summary> This paper presents our solution, garNER, to the SemEval-2023 MultiConer task. We propose a knowledge augmentation approach by directly querying entities from Wikipedia
+API and appending the summaries of the entities to the input sentence. These entities are either retrieved from the labeled training set (Gold Entity) or from off-the-shelf entity taggers (Entity Extractor). Ensemble methods are then applied across multiple models to get the final prediction. Our analysis shows that the added contexts are beneficial only when such contexts are relevant to the target-named entities, but detrimental when the contexts are irrelevant.</details>
 
 ## Papers (Under Review)
 ### Vio-Lens: A Novel Dataset of Annotated Social Network Posts Leading to Different Forms of Communal Violence and its Evaluation. (Under Review BLP Workshop Under EMNLP 2023)
 **Authors:** *Sourav Saha*, Jahedul Alam Junaed, Maryam Saleki, Arnab Sen Sharma, Mohammad Rashidujjaman Rifat, Mohamed Rahouti, Syed Ishtiaque Ahmed, Nabeel Mohammed, Mohammad Ruhul Amin
-<details>
-***<summary> Abstract </summary>***
-TBA
-</details>
+<details><summary> Abstract </summary> TBA</details>
   
 ### BLP-2023 Task 1: Violence Inciting Text Detection (Under Review BLP Workshop Under EMNLP 2023)
 **Authors:** *Sourav Saha*, Jahedul Alam Junaed, Maryam Saleki, Mohamed Rahouti, Nabeel Mohammed, Mohammad Ruhul Amin
-<details>
-***<summary> Abstract </summary>***
-TBA
-</details>
+<details> <summary> Abstract </summary>TBA </details>
 
 ### Data, Annotation, and Meaning-Making: Marginalizing Faith by Collapsing Contexts in Secular Annotation Infrastructure. (Under Review at CHI-2024)
 **Authors:** Mohammad Rashidujjaman Rifat, Mr Abdullah Hasan Safir, *Sourav Saha* , Jahedul Alam Junaed, Maryam Saleki, Dr. Mohammad Ruhul Amin, Syed Ishtiaque Ahmed
-<details>
-***<summary> Abstract </summary>***
-TBA
-</details>
+<details> <summary> Abstract </summary> TBA </details>
 
 ## Achivements
 - ***Top 10 position on 10 tracks (Team: garNER)*** in international competition on \textbf{SemEval 2023 Task 2: Multilingual Complex Named Entity Recognition} [Link](https://multiconer.github.io/results)
