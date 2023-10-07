@@ -54,10 +54,16 @@ TBA
 </details>
 
 ## Achivements
-***TBA***
+- ***Top 10 position on 10 tracks (Team: garNER)*** in international competition on \textbf{SemEval 2023 Task 2: Multilingual Complex Named Entity Recognition} [Link](https://multiconer.github.io/results)
+- Distinction in Mathematics in International Assessment of Schools, By University of New South Wales
+- Achieved among the **top 22** percent in Robi Datathon 2.0
 
 ## Projects
 ***TBA***
 
 ## Online Certifications
-***TBA***
+- Natural Language Processing with Classification and Vector Spaces. [Credentials](https://www.coursera.org/account/accomplishments/certificate/73STH9FMZBP4)
+- Git + GitHub for Open Source Collaboration. [Credentials](https://www.coursera.org/account/accomplishments/certificate/5M92N56TV9HT)
+- Neural Networks and Deep Learning. [Credentials](https://www.coursera.org/account/accomplishments/certificate/7MGXPZJ9655Z)
+- AI For Everyone. [Credentials](https://www.coursera.org/account/accomplishments/certificate/G7GT4BWP74HU)
+- Structuring Machine Learning Projects. [Credentials](https://www.coursera.org/account/accomplishments/certificate/T7MTS33U3EP7)
